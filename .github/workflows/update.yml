@@ -5,6 +5,9 @@ on:
     - cron: "*/4 * * * *"  # Runs every 4 minute
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   update_naukri:
     runs-on: windows-latest
