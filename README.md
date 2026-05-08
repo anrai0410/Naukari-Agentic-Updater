@@ -2,7 +2,6 @@
 
 
 
-
 Yep — this explains **exactly** why you’re getting *Access Denied on all servers* 😅
 Naukri is blocking you **because of Playwright automation**.
 
